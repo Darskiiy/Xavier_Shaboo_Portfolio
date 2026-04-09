@@ -3,14 +3,14 @@ const projetos = [
         nome: "Twins Adventure",
         imagem: "Img/Twins_Adventure.jpg",
         status: "incompleto",
-        descricao: "Pequeno jogo onde controlasse um slime que dá parry",
+        descricao: "Pequeno jogo onde controlasse um slime que dá parry.",
         link: null
     },
     {
         nome: "Slug Shot",
         imagem: "Img/Slugshot.png",
         status: "completo",
-        descricao: "Tower climber onde controlas uma Slug e deve matar os robos",
+        descricao: "Tower climber onde controlas uma Slug e deve matar os robos.",
         link: "https://bpgodinho.itch.io/slugshot"
     }
 ];
